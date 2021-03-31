@@ -42,6 +42,7 @@ namespace libtests
     public void GetAppropriateAgent_returns_null_when_not_all_actions_are_executable()
     {
       Assert.True(false);
+      Assert.False(true);
     }
 
   }
